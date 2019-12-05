@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/3d2019/GiitHuub/NEwtworking/networkking/Network ing/Network ing/Assets/Scenes/menu.unity
+  isLoaded: 1
+  isActive: 1
